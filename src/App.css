@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(to right, rgb(124, 28, 47), rgb(251, 4, 53) , rgb(122, 10, 32));
+}
+
+.div {
+  /* background-color: aquamarine; */
+  text-align: center;
+}
